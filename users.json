@@ -1,0 +1,16 @@
+[
+    {
+      "id": "ee75eb27-9246-43c1-af5a-a8d33f8a963f",
+      "email": "ivanhahanov@icloud.com",
+      "password_hash": "some password hash that needs to be created",
+      "provider_credentials": [
+        {
+          "email": "ivanhahanov@icloud.com",
+          "encrypted_api_token": "some GitHub API token that has been encrypted using the FASTLANE_CI_ENCRYPTION_KEY",
+          "provider_name": "GitHub",
+          "type": "github",
+          "full_name": "Fastlane CI"
+        }
+      ]
+    }
+]
